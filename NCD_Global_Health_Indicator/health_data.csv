@@ -1,0 +1,21 @@
+region,country,diabetes_rate,obesity_rate,hypertension_rate,smoking_rate,physical_inactivity
+Asia,India,8.5,20,25,12,32
+Asia,China,11.2,17,26,25,28
+Asia,Japan,7.1,4,21,18,20
+Europe,Germany,9.8,23,34,28,35
+Europe,France,7.3,21,30,27,33
+Europe,Italy,6.9,19,29,23,31
+Africa,Nigeria,5.6,9,18,10,22
+Africa,Kenya,4.8,11,20,8,25
+Africa,Ethiopia,4.2,7,17,6,18
+Americas,USA,10.5,36,33,20,40
+Americas,Canada,7.9,29,31,17,36
+Americas,Brazil,9.3,25,32,15,34
+Oceania,Australia,6.1,27,28,19,29
+Oceania,New Zealand,5.4,24,26,14,26
+Asia,Pakistan,10.8,14,27,22,30
+Europe,UK,8.1,22,33,25,32
+Africa,Ghana,5.0,10,19,9,23
+Americas,Mexico,11.0,28,34,23,38
+Asia,Bangladesh,8.7,12,24,16,27
+Europe,Spain,7.0,20,29,21,31
